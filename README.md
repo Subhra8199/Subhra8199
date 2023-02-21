@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Subhra8199
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
-- 💞️ Music Producer.(in my free time)
+- 💞️ Music Producer (in my free time)
 - 📫 How to reach me subhrajeet123nath@gmail.com 
 
 
