@@ -6,9 +6,9 @@
 
 ### 🌟 About Me
 💻 Passionate about crafting **clean, scalable, and performant** web apps  
-🎨 Obsessed with **UI polish, animations (GSAP), and award-level design**  
+🎨 Obsessed with **UI polish, animations (GSAP)  
 📚 Currently mastering **React, Redux Toolkit, TypeScript, Firebase**  
-🎯 Goal: Land a **remote role** + build **FWA-worthy projects**
+
 
 ---
 
