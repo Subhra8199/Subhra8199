@@ -1,6 +1,6 @@
 <!-- Intro Banner -->
 <h1 align="center">👋 Hey, I'm <span style="color:#58a6ff">Subhrajeet Nath</span></h1>
-<h3 align="center">Frontend Developer | MERN Enthusiast | Future Full-Stack Engineer 🚀</h3>
+<h3 align="center">Frontend Developer 
 
 ---
 
