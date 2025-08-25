@@ -1,6 +1,6 @@
-<!-- Animated Typing SVG -->
+<!-- Spinning React Logo -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/react.gif" alt="React Logo" width="100" height="100" />
 </p>
 
 <!-- Intro Banner -->
