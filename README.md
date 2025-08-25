@@ -1,6 +1,12 @@
+<!-- Animated Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer" alt="Typing SVG" />
+</p>
+
 <!-- Intro Banner -->
 <h1 align="center">👋 Hey, I'm <span style="color:#58a6ff">Subhrajeet Nath</span></h1>
-<h3 align="center">Frontend Developer 
+<h3 align="center">Frontend Developer</h3>
+
 
 ---
 
