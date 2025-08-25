@@ -1,9 +1,12 @@
 
 <!-- Intro Banner -->
 <h1 align="center">👋 Hey, I'm <span style="color:#58a6ff">Subhrajeet Nath</span></h1>
-<h3 align="center">Frontend Developer</h3>
+<!--<h3 align="center">Frontend Developer</h3>-->
 
-
+<!-- Animated Typing Frontend Developer -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=435&lines=Frontend+Developer" alt="Typing SVG" />
+</p>
 ---
 
 ### 🌟 About Me
