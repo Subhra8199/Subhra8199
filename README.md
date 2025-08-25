@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./assets/react-spin.gif" alt="Spinning React Logo" width="120"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100" />
 </p>
+
 
 
 <!-- Intro Banner -->
