@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/react.gif" alt="React Logo" width="100" height="100" />
+  <img src="./assets/react-spin.gif" alt="Spinning React Logo" width="120"/>
 </p>
+
 
 <!-- Intro Banner -->
 <h1 align="center">👋 Hey, I'm <span style="color:#58a6ff">Subhrajeet Nath</span></h1>
