@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/react-spin.gif" alt="Spinning React Logo" width="120"/>
+  <img src="https://makeagif.com/media/3-React-Logo-Spi/*(valid direct image URL)*" alt="Spinning React Logo" width="120"/>
 </p>
 
 
