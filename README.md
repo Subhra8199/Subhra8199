@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="React Logo" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/react.gif" alt="React Logo" width="100" height="100" />
 </p>
 
 <!-- Intro Banner -->
