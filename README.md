@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./assets/react-spin.gif" alt="Spinning React Logo" width="120"/>
+  <img src="https://raw.githubusercontent.com/Arsenic-ATG/Arsenic-ATG/master/assets/react.gif" alt="React Logo" width="120"/>
 </p>
-
 
 
 <!-- Intro Banner -->
