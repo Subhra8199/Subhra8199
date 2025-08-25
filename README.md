@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://makeagif.com/media/3-React-Logo-Spi/*(valid direct image URL)*" alt="Spinning React Logo" width="120"/>
-</p>
-
 
 <!-- Intro Banner -->
 <h1 align="center">👋 Hey, I'm <span style="color:#58a6ff">Subhrajeet Nath</span></h1>
