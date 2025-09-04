@@ -15,7 +15,6 @@
 -> Obsessed with **UI polish, animations (GSAP)  
 -> Currently mastering **React, Redux Toolkit, TypeScript, Firebase**  
 
-
 ---
 
 ### 🛠️ Tech I Use Often
