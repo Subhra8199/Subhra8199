@@ -1,6 +1,6 @@
 
 <!-- Intro Banner -->
-<h1 align="center">👋 Hey, I'm <span style="color:#58a64f">Subhrajeet Nath</span></h1>
+<h1 align="center"> Hey, I'm <span style="color:#58a64f">Subhrajeet Nath</span></h1>
 <!--<h3 align="center">Frontend Developer</h3>-->
 
 <!-- Animated Typing Frontend Developer -->
