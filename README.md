@@ -10,7 +10,7 @@
 
 ---
 
-### 🌟 About Me - 
+### About Me - 
 -> Passionate about crafting **clean, scalable, and performant** web apps  
 -> Obsessed with **UI polish, animations (GSAP)  
 -> Currently mastering **React, Redux Toolkit, TypeScript, Firebase**  
