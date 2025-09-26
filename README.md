@@ -38,7 +38,7 @@
 
 ---
 
-### 📚 Currently Learning :
+### Currently Learning :
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -53,7 +53,7 @@
 
 ---
 
-### 📚 Currently Learning
+### Currently Learning
 - ⚛️ Advanced React Patterns (Context + Reducer, Reusability)  
 - 🔹 Next.js + TypeScript  
 - ☁️ DevOps (Docker, CI/CD, GCP)  
