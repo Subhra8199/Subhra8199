@@ -18,7 +18,7 @@
 ---
 
 
-### 🛠️ Tech I Use Often :
+### Tech I Use Often :
 <p align="center">
   <!-- Core Web -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
