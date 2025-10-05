@@ -54,10 +54,10 @@
 ---
 
 ### Currently Learning
-- ⚛️ Advanced React Patterns (Context + Reducer, Reusability)  
-- 🔹 Next.js + TypeScript  
-- ☁️ DevOps (Docker, CI/CD, GCP)  
-- 🏗️ System Design basics  
+- Advanced React Patterns (Context + Reducer, Reusability)  
+- Next.js + TypeScript  
+- DevOps (Docker, CI/CD, GCP)  
+- System Design basics  
 
 ---
 
