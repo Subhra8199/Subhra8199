@@ -76,4 +76,4 @@
 
 ---
 
-⭐️ From [Subhrajeet Nath](https://github.com/Subhra8199)
+From [Subhrajeet Nath](https://github.com/Subhra8199)
